@@ -46,15 +46,9 @@ The goal is to:
 ---
 
 ## 🗺️ Map Outputs
-
-### 📌 Contour Map
 ![Contour Map](ddd.jpg)
 
-### 📌 Drainage Network
-![Drainage Network](images/drainage_network.png)
 
-### 📌 Watershed Delineation
-![Watershed Map](images/watershed_map.png)
 
 > ⚠️ Note: Please upload your exported map images (from your PDF/ArcGIS project) into an **`images/`** folder in this repository and rename them as shown above.  
 
