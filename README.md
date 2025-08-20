@@ -45,16 +45,18 @@ The goal is to:
 
 ---
 
-## 🗺️ Map Output
-The final map includes:
-- River Kaduna and tributaries.
-- Indexed and intermediate contours.
-- Buildings and settlement patterns.
-- Drainage buffer zones (30m).
-- Stream order classification (Order 1, 2, 3).  
+## 🗺️ Map Outputs
 
-**Scale:** *1:5,000*  
-**Conversion:** 1 cm = 50 meters  
+### 📌 Contour Map
+![Contour Map](ddd.jpg)
+
+### 📌 Drainage Network
+![Drainage Network](images/drainage_network.png)
+
+### 📌 Watershed Delineation
+![Watershed Map](images/watershed_map.png)
+
+> ⚠️ Note: Please upload your exported map images (from your PDF/ArcGIS project) into an **`images/`** folder in this repository and rename them as shown above.  
 
 ---
 
