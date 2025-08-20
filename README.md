@@ -50,7 +50,6 @@ The goal is to:
 
 
 
-> ⚠️ Note: Please upload your exported map images (from your PDF/ArcGIS project) into an **`images/`** folder in this repository and rename them as shown above.  
 
 ---
 
